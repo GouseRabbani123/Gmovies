@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gmovies/static/css/main.33b7a33d.css",
+    "main.js": "/Gmovies/static/js/main.2e36ba7d.js",
+    "index.html": "/Gmovies/index.html",
+    "main.33b7a33d.css.map": "/Gmovies/static/css/main.33b7a33d.css.map",
+    "main.2e36ba7d.js.map": "/Gmovies/static/js/main.2e36ba7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b7a33d.css",
+    "static/js/main.2e36ba7d.js"
+  ]
+}
